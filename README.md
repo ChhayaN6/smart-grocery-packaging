@@ -28,7 +28,7 @@ KNN is a supervised machine learning algorithm that classifies data based on the
 
 ## System Workflow
 1. Sensors collect real-time data
-2. Data is sent to the processing unit
+2. Data is sent to the Firebase database
 3. KNN model predicts Fresh or Spoiled
 4. Result is displayed on LCD / App
 
@@ -37,6 +37,7 @@ The system accurately classifies food freshness using KNN and provides real-time
 
 ## Tools & Technologies
 - Python
+- Firebase Database
 - KNN Algorithm
 - Machine Learning
 - Sensors
